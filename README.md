@@ -11,7 +11,7 @@ Hamburger shop where the user can create an account, log in, choose the product 
 
 <img src="CodeBurgerPrints/Cart CodeBurger.png" alt="Carrinho">
 
-<img src="CodeBurgerPrints/Admin pedidos CodeBurger.png" alt="Admin">
+<img src="CodeBurgerPrints/Admin pedidos CodeBurger.png" alt="Admin-Pedidos">
 
 <img src="CodeBurgerPrints/Admin produtos CodeBurger.png" alt="Admin-Produtos">
 
