@@ -3,6 +3,20 @@ Hamburger shop where the user can create an account, log in, choose the product 
 
 <img src="CodeBurgerPrints/Home CodeBurger.png" alt="Print-Home">
 
+<img src="CodeBurgerPrints/Login CodeBurger.png" alt="Login">
+
+<img src="CodeBurgerPrints/Register CodeBurger.png" alt="Register">
+
+<img src="CodeBurgerPrints/Produtos CodeBurger.png" alt="Produtos">
+
+<img src="CodeBurgerPrints/Cart CodeBurger.png" alt="Carrinho">
+
+<img src="CodeBurgerPrints/Admin pedidos CodeBurger.png" alt="Admin">
+
+<img src="CodeBurgerPrints/Admin produtos CodeBurger.png" alt="Admin-Produtos">
+
+<img src="CodeBurgerPrints/Admin add CodeBurger.png" alt="Admin-Add">
+
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
